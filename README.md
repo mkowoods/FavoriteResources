@@ -1,6 +1,11 @@
 # FavoriteResources
 A list of my favorite programming sources found around the web
 
+
+##Algorithms and Data Structures
+* Python
+ * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+
 ## CSS
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Visual GIFs on Positioning](http://blog.froont.com/positioning-in-web-design/)
