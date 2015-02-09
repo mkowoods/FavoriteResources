@@ -5,6 +5,7 @@ A list of my favorite programming sources found around the web
 ##Algorithms and Data Structures
 * Python
  * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+ * [Implementation of Common Algorithms](http://www.geekviewpoint.com/)
 
 ## CSS
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
@@ -13,6 +14,9 @@ A list of my favorite programming sources found around the web
 ##Machine Learning
 * [Do you need 100 Classifiers?](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
 * [Markov Chains Explained](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
+
+##Optimization
+* [Solving Greater Than Sudoku using constraint logic programming](http://sdymchenko.com/blog/2015/01/04/greater-than-sudoku-clp/)
 
 ##Github
 * [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
@@ -55,3 +59,6 @@ A list of my favorite programming sources found around the web
 * http://www.npr.org/templates/apidoc/transcript.php
 * http://sunlightfoundation.com/about/
 * http://www.programmableweb.com/
+
+##General Programming
+* [Things you should Never do](http://www.joelonsoftware.com/articles/fog0000000069.html)
