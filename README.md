@@ -12,6 +12,7 @@ A list of my favorite programming sources found around the web
 
 ##Machine Learning
 * [Do you need 100 Classifiers?](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
+* [Markov Chains Explained](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
 
 ##Github
 * [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
@@ -42,7 +43,6 @@ A list of my favorite programming sources found around the web
 
 ##Web Engineering
 * http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-* 
 
 ##Online Courses
 * http://coursera.org/
@@ -54,4 +54,3 @@ A list of my favorite programming sources found around the web
 * http://www.npr.org/templates/apidoc/transcript.php
 * http://sunlightfoundation.com/about/
 * http://www.programmableweb.com/
-* 
