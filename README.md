@@ -11,7 +11,7 @@ A list of my favorite programming sources found around the web
 ##Github
 * [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
-##) iOS
+## iOS
 * [Shrikar](http://shrikar.com/)
 * [Ray Wenderlich](http://www.raywenderlich.com/)
 
