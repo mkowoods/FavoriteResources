@@ -49,7 +49,8 @@ A list of my favorite programming sources found around the web
 * https://courses.edx.org/dashboard
 * http://www.codecademy.com/
 * https://www.udacity.com/
-* 
+
+
 ##Interesting APIs
 * http://www.npr.org/templates/apidoc/transcript.php
 * http://sunlightfoundation.com/about/
