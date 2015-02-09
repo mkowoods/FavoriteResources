@@ -39,3 +39,19 @@ A list of my favorite programming sources found around the web
 * http://sidejobr.com/help/19-amazing-sites-get-free-stock-photos/
 * http://www.welie.com/index.php
 * http://ui-patterns.com/
+
+##Web Engineering
+* http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+* 
+
+##Online Courses
+* http://coursera.org/
+* https://courses.edx.org/dashboard
+* http://www.codecademy.com/
+* https://www.udacity.com/
+* 
+##Interesting APIs
+* http://www.npr.org/templates/apidoc/transcript.php
+* http://sunlightfoundation.com/about/
+* http://www.programmableweb.com/
+* 
