@@ -11,6 +11,9 @@ A list of my favorite programming sources found around the web
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Visual GIFs on Positioning](http://blog.froont.com/positioning-in-web-design/)
 
+##Web Dev
+* [Deploying Flask App to AWS](https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80)
+
 ##Machine Learning
 * [Do you need 100 Classifiers?](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
 * [Markov Chains Explained](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
@@ -30,6 +33,7 @@ A list of my favorite programming sources found around the web
  * Covers Topics like Unit Testing
 * Marketing:
  * [HoursTracker Earned 5 figures](https://medium.com/@carlosribas/how-hourstracker-earns-five-figures-a-month-on-the-app-store-85a20bb972eb)
+ * [Overcast App Sales](http://www.marco.org/2015/01/15/overcast-sales-numbers)
 
 ## Style Guides
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
