@@ -20,6 +20,7 @@ A list of my favorite programming sources found around the web
 
 ##Github
 * [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Getting Stars](https://medium.com/@cwRichardKim/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 
 ## iOS
 * [Shrikar](http://shrikar.com/)
@@ -27,6 +28,8 @@ A list of my favorite programming sources found around the web
 * [Swiftris](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675)
 * [Bancroft Blog on Swift](http://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
  * Covers Topics like Unit Testing
+* Marketing:
+ * [HoursTracker Earned 5 figures](https://medium.com/@carlosribas/how-hourstracker-earns-five-figures-a-month-on-the-app-store-85a20bb972eb)
 
 ## Style Guides
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
@@ -62,3 +65,4 @@ A list of my favorite programming sources found around the web
 
 ##General Programming
 * [Things you should Never do](http://www.joelonsoftware.com/articles/fog0000000069.html)
+* [Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
