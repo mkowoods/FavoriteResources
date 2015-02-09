@@ -34,3 +34,8 @@ A list of my favorite programming sources found around the web
 * [Instagram Unshredder](http://instagram-engineering.tumblr.com/post/12651721845/instagram-engineering-challenge-the-unshredder)
 * [Connect Four](http://stackoverflow.com/questions/15327185/connect-four-python-printing-problems)
 
+##UX
+* http://uxchecklist.github.io/
+* http://sidejobr.com/help/19-amazing-sites-get-free-stock-photos/
+* http://www.welie.com/index.php
+* http://ui-patterns.com/
