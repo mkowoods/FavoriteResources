@@ -14,6 +14,9 @@ A list of my favorite programming sources found around the web
 ## iOS
 * [Shrikar](http://shrikar.com/)
 * [Ray Wenderlich](http://www.raywenderlich.com/)
+* [Swiftris](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675)
+* [Bancroft Blog on Swift](http://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
+ * Covers Topics like Unit Testing
 
 ## Style Guides
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
