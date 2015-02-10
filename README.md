@@ -54,6 +54,7 @@ A list of my favorite programming sources found around the web
 
 ##Web Engineering
 * http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+* http://httpbin.org/
 
 ##Online Courses
 * http://coursera.org/
