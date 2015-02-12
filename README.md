@@ -53,14 +53,14 @@ A list of my favorite programming sources found around the web
 * http://ui-patterns.com/
 
 ##Web Engineering
-* http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-* http://httpbin.org/
+* [Best Practices for a Pragmatic Restful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [httpbin](http://httpbin.org/)
 
 ##Online Courses
-* http://coursera.org/
-* https://courses.edx.org/dashboard
-* http://www.codecademy.com/
-* https://www.udacity.com/
+* [Coursera](http://coursera.org/)
+* [EDx](https://courses.edx.org/dashboard)
+* [CodeAcademy](http://www.codecademy.com/)
+* [Udacity](https://www.udacity.com/)
 
 
 ##Interesting APIs
@@ -71,3 +71,4 @@ A list of my favorite programming sources found around the web
 ##General Programming
 * [Things you should Never do](http://www.joelonsoftware.com/articles/fog0000000069.html)
 * [Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
+* [Peter Norvig's Blog](http://norvig.com/)
