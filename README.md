@@ -6,6 +6,7 @@ A list of my favorite programming sources found around the web
 * Python
  * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
  * [Implementation of Common Algorithms](http://www.geekviewpoint.com/)
+ * [Time Complexity for Basic Data Types](https://wiki.python.org/moin/TimeComplexity)
 
 ## CSS
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
