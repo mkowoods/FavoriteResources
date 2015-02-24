@@ -73,3 +73,6 @@ A list of my favorite programming sources found around the web
 * [Things you should Never do](http://www.joelonsoftware.com/articles/fog0000000069.html)
 * [Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
 * [Peter Norvig's Blog](http://norvig.com/)
+
+
+http://www.vergenet.net/~conrad/boids/pseudocode.html
