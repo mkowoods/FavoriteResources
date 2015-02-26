@@ -76,3 +76,4 @@ A list of my favorite programming sources found around the web
 
 
 http://www.vergenet.net/~conrad/boids/pseudocode.html
+http://en.m.wikipedia.org/wiki/Emergent_algorithm
