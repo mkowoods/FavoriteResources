@@ -80,3 +80,4 @@ http://en.m.wikipedia.org/wiki/Emergent_algorithm
 https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b
 https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5
 http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
+http://imgur.com/RPpaWVh
