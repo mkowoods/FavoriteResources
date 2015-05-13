@@ -81,3 +81,7 @@ https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-fr
 https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5
 http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 http://imgur.com/RPpaWVh
+http://web.stanford.edu/class/cs97si/
+https://www.topcoder.com/community/data-science/data-science-tutorials/
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
