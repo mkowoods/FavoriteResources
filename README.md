@@ -86,3 +86,4 @@ https://www.topcoder.com/community/data-science/data-science-tutorials/
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 http://artint.info/html/ArtInt.html
+https://automatetheboringstuff.com/
