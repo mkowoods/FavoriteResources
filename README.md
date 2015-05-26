@@ -74,16 +74,31 @@ A list of my favorite programming sources found around the web
 * [Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
 * [Peter Norvig's Blog](http://norvig.com/)
 
+##E-Books
+ * [Sutton and Barto - Reinforcement Learning](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node1.html)
+ * [Artifical Intelligence](http://artint.info/html/ArtInt.html)
 
-http://www.vergenet.net/~conrad/boids/pseudocode.html
-http://en.m.wikipedia.org/wiki/Emergent_algorithm
+##Emergence
+ * [Boids](http://www.vergenet.net/~conrad/boids/pseudocode.html)
+ * [Emergence Wiki](http://en.m.wikipedia.org/wiki/Emergent_algorithm)
+
+##Miscellaneous
+ * [Competitive Programming](http://web.stanford.edu/class/cs97si/)
+ * [Automate The Boring Stuff](https://automatetheboringstuff.com/)
+
+##OCW Courses MIT
+ * [MIT - AI](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+ * [MIT - Intro to Algos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+
 https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b
 https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5
 http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
-http://imgur.com/RPpaWVh
-http://web.stanford.edu/class/cs97si/
+
+
 https://www.topcoder.com/community/data-science/data-science-tutorials/
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
-http://artint.info/html/ArtInt.html
-https://automatetheboringstuff.com/
+
+
+
+
+
