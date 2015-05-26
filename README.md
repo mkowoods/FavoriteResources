@@ -76,7 +76,7 @@ A list of my favorite programming sources found around the web
 
 ##E-Books
  * [Sutton and Barto - Reinforcement Learning](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node1.html)
- * [Artifical Intelligence](http://artint.info/html/ArtInt.html)
+ * [Poole - Artifical Intelligence - FOUNDATIONS OF COMPUTATIONAL AGENTS](http://artint.info/html/ArtInt.html)
 
 ##Emergence
  * [Boids](http://www.vergenet.net/~conrad/boids/pseudocode.html)
